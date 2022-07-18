@@ -114,10 +114,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.hero-descrription {
-  display: flex;
-  justify-content: center;
-}
 .main-title {
   font-family: var(--primary-font);
   font-style: normal;
@@ -153,11 +149,6 @@ body {
   background: #188ce8;
 }
 .container-team {
-  width: 1600px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 15px;
-  padding-right: 15px;
   background-color: #f5f4fa;
 }
 .list-header {
